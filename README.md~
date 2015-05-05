@@ -23,4 +23,4 @@ feature.txt for Cora and Citeseer
 This is the Paper-Word relationship matrix. Each line contains a binary vector of 1, 433 dimensions indicating the presence of the corresponding word.
 
 tfidf.txt for Wiki
-This is the TFIDF matrix of Wiki dataset. 4, 973 columns correspond to 4, 973 different words.
+This is the TFIDF matrix of Wiki dataset.
