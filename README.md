@@ -24,3 +24,7 @@ This is the Paper-Word relationship matrix. Each line contains a binary vector o
 
 tfidf.txt for Wiki: 
 This is the TFIDF matrix of Wiki dataset. 4, 973 columns correspond to 4, 973 different words.
+
+#About the mex file
+The source code of train.mexa64 comes from LibLinear which can be found at http://www.csie.ntu.edu.tw/~cjlin/liblinear/.
+train_ml.mexa64 comes from the work "Inductive matrix completion for predicting gene-disease associations" which can be found at http://bigdata.ices.utexas.edu/project/gene-disease/. The authors provide only mex file on the site and I don't have the source code either.
